@@ -1,0 +1,6 @@
+pub_HSC_Var_iband is the catalog including the effective region areas of the variable objects in the COSMOS field that get detected twice in the HSC transient survey. The effective region areas in pub_HSC_Var_iband are from i-band difference images at the epochs of 2016 Nov. 25, 2016 Nov. 29, 2016 Dec. 25, 2017 Jan. 2, 2017 Jan. 23, 2017 Jan. 30, 2017 Feb. 2, 2017 Feb. 25, 2017 Mar. 4, 2017 Mar. 23, 2017 Mar. 30, 2017 Apr. 26, and 2017 Apr. 27. For more details, please refer to Chao et al. 2021.
+
+First column: HSC Variable ID
+Second column: RA
+Third column: Dec
+Fourth to Sixtennth column: Effective region areas at 2016 Nov. 25, 2016 Nov. 29, 2016 Dec. 25, 2017 Jan. 2, 2017 Jan. 23, 2017 Jan. 30, 2017 Feb. 2, 2017 Feb. 25, 2017 Mar. 4, 2017 Mar. 23, 2017 Mar. 30, 2017 Apr. 26, and 2017 Apr. 27, respectively. If the value equal to -99, it means that the variable object has no i-band difference image at the corresponding epoch. 
